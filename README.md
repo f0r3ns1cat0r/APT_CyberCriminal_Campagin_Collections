@@ -30,21 +30,25 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
-* Jun 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://go.recordedfuture.com/hubfs/reports/cta-cn-2024-0624.pdf) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
+* Jun 24 - [[Recorded Future] Chinese State-Sponsored RedJuliett Intensifies Taiwanese Cyber Espionage via Network Perimeter Exploitation](https://www.recordedfuture.com/redjuliett-intensifies-taiwanese-cyber-espionage-via-network-perimeter) | [:closed_book:](../../blob/master/2024/2024.06.24_Chinese_State-Sponsored_Taiwanese)
 * Jun 21 - [[CISCO] SneakyChef espionage group targets government agencies with SugarGh0st and more infection techniques](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.21.sneakychef-sugarghost-rat)
 * Jun 16 - [[Sygnia] China-Nexus Threat Group ‘Velvet Ant’ Abuses F5 Load Balancers for Persistence](https://blog.talosintelligence.com/sneakychef-sugarghost-rat/) | [:closed_book:](../../blob/master/2024/2024.06.16.velvet-ant)
 * Jun 10 - [[BlackBerry] Kimsuky is targeting an arms manufacturer in Europe](https://www.linkedin.com/pulse/kimsuky-targeting-arms-manufacturer-europe-dmitry-melikov-dquge/) | [:closed_book:](../../blob/master/2024/2024.06.10.Kimsuky_Europe)
-
-* Mar 7 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
+* May 23 - [[Palo Alto Networks] Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia ](https://unit42.paloaltonetworks.com/operation-diplomatic-specter/) | [:closed_book:](../../blob/master/2024/2024.05.23_Operation_Diplomatic_Specter)
+* May 16 - [[Palo Alto Networks] Payload Trends in Malicious OneNote Samples](https://unit42.paloaltonetworks.com/payloads-in-malicious-onenote-samples/) | [:closed_book:](../../blob/master/2024/2024.05.16_Payload_Trends_in_Malicious_OneNote_Samples)
+* Mar 07 - [[ESET] Evasive Panda leverages Monlam Festival to target Tibetans](https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/) | [:closed_book:](../../blob/master/2024/2024.03.07_Evasive_Panda)
 * Feb 27 - [[Mandiant] When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors](https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east) | [:closed_book:](../../blob/master/2024/2024.02.27.UNC1549)
+* Feb 26 - [[Trend Micro] Earth Lusca Uses Geopolitical Lure to Target Taiwan Before Elections](https://www.trendmicro.com/en_us/research/24/b/earth-lusca-uses-geopolitical-lure-to-target-taiwan.html) | [:closed_book:](../../blob/master/2024/2024.02.26.Earth_Lusca_Uses_Geopolitical_Lure_to_Target_Taiwan_Before_Elections)
 * Feb 23 - [[Sophos] ConnectWise ScreenConnect attacks deliver malware](https://news.sophos.com/en-us/2024/02/23/connectwise-screenconnect-attacks-deliver-malware/) | [:closed_book:](../../blob/master/2024/2024.02.23.ConnectWise_Malware)
+* Feb 23 - [[Palo Alto Networks] Data From Chinese Security Services Company i-Soon Linked to Previous Chinese APT Campaigns](https://unit42.paloaltonetworks.com/i-soon-data-leaks/) | [:closed_book:](../../blob/master/2024/2024.02.23.Data_From_Chinese_Security_Services_Company_i-Soon_Linked_to_Previous)
 * Feb 16 - [[---] inside I-Soon APT(Earth Lusca) operation center](https://github.com/I-S00N/I-S00N) | [:closed_book:](../../blob/master/2024/2024.02.16_I-Soon_Earth_Lusca)
 * Feb 14 - [[Microsoft] Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/) | [:closed_book:](../../blob/master/2024/2024.02.14_APT_AI)
 * Feb 13 - [[Trend Micro] CVE-2024-21412: Water Hydra Targets Traders With Microsoft Defender SmartScreen Zero-Day](https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html) | [:closed_book:](../../blob/master/2024/2024.02.13.Water_Hydra)
-* Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats
-via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
+* Jan 31 - [[Trend Micro] Pawn Storm Uses Brute Force and Stealth Against High-Value Targets](https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html) | [:closed_book:](../../blob/master/2024/2024.01.31.Pawn_Storm_Uses_Brute_Force_and_Stealth_Against_High-Value_Targets)
+* Jan 25 - [[KrCERT/CC] Lazarus Group’s Large-scale Threats via Watering Hole and Financial Software](https://jsac.jpcert.or.jp/archive/2024/pdf/JSAC2024_1_6_dongwook-kim_seulgi-lee_en.pdf) | [:closed_book:](../../blob/master/2024/2024.01.25.Lazarus_Group)
 * Jan 24 - [[itochuci] The Endless Struggle Against APT10: Insights from LODEINFO](https://blog-en.itochuci.co.jp/entry/2024/01/24/134100) | [:closed_book:](../../blob/master/2024/2024.01.24.APT10_LODEINFO)
 * Jan 10 - [[Volexity] Active Exploitation of Two Zero-Day Vulnerabilities in Ivanti Connect Secure VPN](https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/) | [:closed_book:](../../blob/master/2024/2024.01.10.Active_Exploitation_UTA0178)
+* Jan 03 - [[Greg Lesnewich] 100DaysofYARA - SpectralBlur](https://g-les.github.io/yara/2024/01/03/100DaysofYARA_SpectralBlur.html) | [:closed_book:](../../blob/master/2024/2024.01.03_SpectralBlur_North_Korean)
 
 
 ## 2023
